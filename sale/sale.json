@@ -1,0 +1,45 @@
+{
+		
+	"data":{
+		"date" : {
+			
+				
+				"id" : "1",
+				"content" : "ZXM17001",
+				"date_order" : "2017-12-25",
+		        "list" : [
+			        	{
+							"date" :"最晚发货日期",
+							"name" : "产品名称",
+							"vsession" : "产品型号",
+							"number" : "数量",
+							"one_price" : "原材料单品单价",
+							"one_price_all" : "原材料合计",
+							"product_price" : "生产合计",
+							"product_all_price" : "总价"
+						},
+						{
+							"date" :"2018-2-1",
+							"name" : "手机壳",
+							"vsession" : "V3.0",
+							"number" : "100",
+							"one_price" : "10",
+							"one_price_all" : "1000",
+							"product_price" : "15",
+							"product_all_price" : "1500"
+						},{
+							"date" :"2018-2-1",
+							"name" : "手机壳",
+							"vsession" : "V3.0",
+							"number" : "100",
+							"one_price" : "10",
+							"one_price_all" : "1000",
+							"product_price" : "15",
+							"product_all_price" : "1500"
+						}
+					]
+			
+	    }
+	},
+	 "state":1
+}
